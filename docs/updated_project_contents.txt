@@ -1,0 +1,6 @@
+PROJECT_NAME:
+Electronic Items Market Viewer System
+
+BRIEF_INTRO:
+Our main goal is to provide the user/visitor a a grand view of product ranges present in the market.
+Sellers & producers may also be benefited by our recommendations generated from user search information.
